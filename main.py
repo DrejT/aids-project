@@ -29,6 +29,8 @@ async def get_movie(movie_name):
     print(f"Fetched movie_id: {movie_id}")
     if movie_id:
         reviews = movie.get_movie_reviews(movie_id)
+        for review in reviews:
+            review["sentiment"] = text.get_sentiment(review["quote"])
         quote_reviews_list = await movie.get_quote_reviews_list(reviews)
         await movie.store_reviews(movie_name, reviews, quote_reviews_list)
 

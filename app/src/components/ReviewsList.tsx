@@ -1,13 +1,26 @@
-import { Box, Button } from "@mui/material";
+import { Alert, Box, Button, Snackbar, Typography } from "@mui/material";
 import ReviewCard from "./ReviewCard";
 import { Review } from "../lib/types";
 import useReviewsSummary from "../hooks/useReviewsSummary";
 import Summary from "./Summary";
 import { useApp } from "../lib/context";
+import { SyntheticEvent, useState } from "react";
 
 export default function ReviewsList() {
   const { handleSubmit } = useReviewsSummary();
   const { summary, reviews } = useApp();
+  const [open, setOpen] = useState(false);
+
+  const handleClick = () => {
+    setOpen(true);
+  };
+
+  const handleClose = (event?: SyntheticEvent | Event, reason?: string) => {
+    if (reason === "clickaway") {
+      return;
+    }
+    setOpen(false);
+  };
   console.log(summary);
   return (
     <Box sx={{ minHeight: "80vh" }}>
@@ -35,6 +48,7 @@ export default function ReviewsList() {
                 variant="contained"
                 type="submit"
                 sx={{ backgroundColor: "red" }}
+                onClick={handleClick}
               >
                 summarize
               </Button>
@@ -42,7 +56,23 @@ export default function ReviewsList() {
           </form>
         </Box>
       ) : null}
-      {summary ? <Summary /> : null}
+      {summary ? (
+        <Snackbar
+          open={open}
+          sx={{ width: "300px" }}
+          // autoHideDuration={3000} // Duration the Snackbar will stay visible (in milliseconds)
+          onClose={handleClose}
+        >
+          <Alert
+            onClose={handleClose}
+            severity="success"
+            sx={{ width: "100%" }}
+          >
+            <Typography variant="h5">Summary</Typography>
+            {summary}
+          </Alert>
+        </Snackbar>
+      ) : null}
     </Box>
   );
 }

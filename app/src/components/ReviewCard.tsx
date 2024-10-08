@@ -22,16 +22,24 @@ export default function ReviewCard({ data }: { data: Review }) {
         }}
       >
         <Typography variant="h6">{data.criticName}</Typography>
+
         <Typography variant="body1">{data.creationDate}</Typography>
-        <Typography variant="body1">
-          {data.sentiment?.toPrecision(2) || null}
-        </Typography>
       </Box>
       <Box>{data.quote}</Box>
-      <Box sx={{ display: "flex", mt: "0.5rem", rowGap: "1rem" }}>
+      <Box
+        sx={{
+          display: "flex",
+          justifyContent: "space-between",
+          mt: "0.5rem",
+          rowGap: "1rem",
+        }}
+      >
         <Link href={data.reviewUrl} underline="none">
           full review
         </Link>
+        <Typography variant="body1">
+          {data.sentiment?.toPrecision(2) || null}
+        </Typography>
       </Box>
     </Box>
   );

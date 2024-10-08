@@ -1359,5 +1359,201 @@
             "It&#8217;s the best Terrifier yet&#44; just in time to make your Christmas bloodier&#46;",
             "Terrifier 3 continues the series&#8217;s trend of dotting a sparse and sinuous thread of plot with mini-masterpieces of cinematic ultraviolence&#46;"
         ]
+    },
+    "phir_hera_pheri": {
+        "reviews": [
+            {
+                "creationDate": "Jan 15, 2019",
+                "criticName": "Namrata Joshi",
+                "criticPictureUrl": "https://resizing.flixster.com/Fvo3oc7W9OOMvUKDw2_u5pbgPtE=/fit-in/50x50/v2/http://resizing.flixster.com/TJtEW6wlyb8DbSBJtN95Na3Q-zc=/128x128/v1.YzszMjQxO2o7MjAwMjU7MjA0ODszMDA7MzAw",
+                "criticPageUrl": "/critics/namrata-joshi",
+                "reviewState": "fresh",
+                "isFresh": true,
+                "isRotten": false,
+                "isRtUrl": false,
+                "isTopCritic": true,
+                "publicationUrl": "/critics/source/1331",
+                "publicationName": "The Hindu",
+                "reviewUrl": "https://www.outlookindia.com/magazine/story/phir-hera-pheri/231749",
+                "quote": "Most laughs here come from the fact that the characters and situations are supremely giddy and the film wears its silliness right there on the sleeve.",
+                "reviewId": "2548413",
+                "originalScore": "2/4",
+                "scoreSentiment": "POSITIVE",
+                "sentiment": 0.39285714285714285
+            }
+        ],
+        "quote_reviews_list": [
+            "Most laughs here come from the fact that the characters and situations are supremely giddy and the film wears its silliness right there on the sleeve."
+        ]
+    },
+    "tumbbad": {
+        "reviews": [
+            {
+                "creationDate": "Oct 31, 2022",
+                "criticName": "Tasha Robinson",
+                "criticPictureUrl": "https://resizing.flixster.com/iL2r-UDlx7XrEnQIVtpo8DGxwzs=/fit-in/50x50/v2/http://resizing.flixster.com/oRs7m3zwrBad2sLLfINp3GL0W5w=/128x128/v1.YzszNDEwO2o7MjAwMjU7MjA0ODszMDA7MzAw",
+                "criticPageUrl": "/critics/tasha-robinson",
+                "reviewState": "fresh",
+                "isFresh": true,
+                "isRotten": false,
+                "isRtUrl": false,
+                "isTopCritic": true,
+                "publicationUrl": "/critics/source/2843",
+                "publicationName": "Polygon",
+                "reviewUrl": "https://www.polygon.com/23429017/watch-tumbbad-best-indian-horror-movie-streaming-review",
+                "quote": "It\u2019s beautifully crafted and creepy as hell.",
+                "reviewId": "102747997",
+                "scoreSentiment": "POSITIVE",
+                "sentiment": 0.175
+            },
+            {
+                "creationDate": "Jul 29, 2019",
+                "criticName": "Udita Jhunjhunwala",
+                "criticPictureUrl": "https://resizing.flixster.com/QurYOpsDG7ptra_7QUV_1g8lQfo=/fit-in/50x50/v2/http://resizing.flixster.com/sj78R2Qo_9QPJlB878YR7pesvt8=/128x128/v1.YzszMzM3O2o7MjAwMjU7MjA0ODszMDA7MzAw",
+                "criticPageUrl": "/critics/udita-jhunjhunwala",
+                "reviewState": "fresh",
+                "isFresh": true,
+                "isRotten": false,
+                "isRtUrl": false,
+                "isTopCritic": true,
+                "publicationUrl": "/critics/source/2785",
+                "publicationName": "Livemint",
+                "reviewUrl": "https://www.livemint.com/Consumer/wxahnjgGbDl82XlvrhJH8I/Tumbbad-movie-review-A-visually-rich-blend-of-fear-and-folk.html",
+                "quote": "What the film forsakes in the acting department (with irregular performances), it more than compensates for with visual richness, artistry, imagination and genre-loyalty.",
+                "reviewId": "2609756",
+                "originalScore": "",
+                "scoreSentiment": "POSITIVE",
+                "sentiment": 0.16666666666666666
+            },
+            {
+                "creationDate": "Oct 10, 2018",
+                "criticName": "Anupama Chopra",
+                "criticPictureUrl": "https://resizing.flixster.com/FWDn76MHmrw9BECrInHQSxXiWWk=/fit-in/50x50/v2/http://resizing.flixster.com/KCtz_RKbWRb8vnmWPh0aAGwl1-Y=/128x128/v1.YzszMzQ4O2o7MjAwMjU7MjA0ODszMDA7MzAw",
+                "criticPageUrl": "/critics/anupama-chopra",
+                "reviewState": "fresh",
+                "isFresh": true,
+                "isRotten": false,
+                "isRtUrl": false,
+                "isTopCritic": true,
+                "publicationUrl": "/critics/source/3101",
+                "publicationName": "Film Companion",
+                "reviewUrl": "https://www.filmcompanion.in/tumbbad-movie-review-anupama-chopra/",
+                "quote": "I left the theatre with images swirling in my head and a few questions that the film doesn't answer. Which is not a bad thing.",
+                "reviewId": "2517402",
+                "originalScore": "4/5",
+                "scoreSentiment": "POSITIVE",
+                "sentiment": 0.04999999999999997
+            },
+            {
+                "creationDate": "Aug 30, 2018",
+                "criticName": "Deborah Young",
+                "criticPictureUrl": "https://images.fandango.com/cms/assets/5b6ff500-1663-11ec-ae31-05a670d2d590--rtactordefault.png",
+                "criticPageUrl": "/critics/deborah-young",
+                "reviewState": "fresh",
+                "isFresh": true,
+                "isRotten": false,
+                "isRtUrl": false,
+                "isTopCritic": true,
+                "publicationUrl": "/critics/source/213",
+                "publicationName": "Hollywood Reporter",
+                "reviewUrl": "https://www.hollywoodreporter.com/review/tumbbad-1137591",
+                "quote": "Atmospheric, heavy on mythology and scary as hell.",
+                "reviewId": "2505390",
+                "originalScore": "",
+                "scoreSentiment": "POSITIVE",
+                "sentiment": -0.2333333333333333
+            }
+        ],
+        "quote_reviews_list": [
+            "It\u2019s beautifully crafted and creepy as hell.",
+            "What the film forsakes in the acting department (with irregular performances), it more than compensates for with visual richness, artistry, imagination and genre-loyalty.",
+            "I left the theatre with images swirling in my head and a few questions that the film doesn't answer. Which is not a bad thing.",
+            "Atmospheric, heavy on mythology and scary as hell."
+        ]
+    },
+    "Tumbbad": {
+        "reviews": [
+            {
+                "creationDate": "Oct 31, 2022",
+                "criticName": "Tasha Robinson",
+                "criticPictureUrl": "https://resizing.flixster.com/iL2r-UDlx7XrEnQIVtpo8DGxwzs=/fit-in/50x50/v2/http://resizing.flixster.com/oRs7m3zwrBad2sLLfINp3GL0W5w=/128x128/v1.YzszNDEwO2o7MjAwMjU7MjA0ODszMDA7MzAw",
+                "criticPageUrl": "/critics/tasha-robinson",
+                "reviewState": "fresh",
+                "isFresh": true,
+                "isRotten": false,
+                "isRtUrl": false,
+                "isTopCritic": true,
+                "publicationUrl": "/critics/source/2843",
+                "publicationName": "Polygon",
+                "reviewUrl": "https://www.polygon.com/23429017/watch-tumbbad-best-indian-horror-movie-streaming-review",
+                "quote": "It\u2019s beautifully crafted and creepy as hell.",
+                "reviewId": "102747997",
+                "scoreSentiment": "POSITIVE",
+                "sentiment": 0.175
+            },
+            {
+                "creationDate": "Jul 29, 2019",
+                "criticName": "Udita Jhunjhunwala",
+                "criticPictureUrl": "https://resizing.flixster.com/QurYOpsDG7ptra_7QUV_1g8lQfo=/fit-in/50x50/v2/http://resizing.flixster.com/sj78R2Qo_9QPJlB878YR7pesvt8=/128x128/v1.YzszMzM3O2o7MjAwMjU7MjA0ODszMDA7MzAw",
+                "criticPageUrl": "/critics/udita-jhunjhunwala",
+                "reviewState": "fresh",
+                "isFresh": true,
+                "isRotten": false,
+                "isRtUrl": false,
+                "isTopCritic": true,
+                "publicationUrl": "/critics/source/2785",
+                "publicationName": "Livemint",
+                "reviewUrl": "https://www.livemint.com/Consumer/wxahnjgGbDl82XlvrhJH8I/Tumbbad-movie-review-A-visually-rich-blend-of-fear-and-folk.html",
+                "quote": "What the film forsakes in the acting department (with irregular performances), it more than compensates for with visual richness, artistry, imagination and genre-loyalty.",
+                "reviewId": "2609756",
+                "originalScore": "",
+                "scoreSentiment": "POSITIVE",
+                "sentiment": 0.16666666666666666
+            },
+            {
+                "creationDate": "Oct 10, 2018",
+                "criticName": "Anupama Chopra",
+                "criticPictureUrl": "https://resizing.flixster.com/FWDn76MHmrw9BECrInHQSxXiWWk=/fit-in/50x50/v2/http://resizing.flixster.com/KCtz_RKbWRb8vnmWPh0aAGwl1-Y=/128x128/v1.YzszMzQ4O2o7MjAwMjU7MjA0ODszMDA7MzAw",
+                "criticPageUrl": "/critics/anupama-chopra",
+                "reviewState": "fresh",
+                "isFresh": true,
+                "isRotten": false,
+                "isRtUrl": false,
+                "isTopCritic": true,
+                "publicationUrl": "/critics/source/3101",
+                "publicationName": "Film Companion",
+                "reviewUrl": "https://www.filmcompanion.in/tumbbad-movie-review-anupama-chopra/",
+                "quote": "I left the theatre with images swirling in my head and a few questions that the film doesn't answer. Which is not a bad thing.",
+                "reviewId": "2517402",
+                "originalScore": "4/5",
+                "scoreSentiment": "POSITIVE",
+                "sentiment": 0.04999999999999997
+            },
+            {
+                "creationDate": "Aug 30, 2018",
+                "criticName": "Deborah Young",
+                "criticPictureUrl": "https://images.fandango.com/cms/assets/5b6ff500-1663-11ec-ae31-05a670d2d590--rtactordefault.png",
+                "criticPageUrl": "/critics/deborah-young",
+                "reviewState": "fresh",
+                "isFresh": true,
+                "isRotten": false,
+                "isRtUrl": false,
+                "isTopCritic": true,
+                "publicationUrl": "/critics/source/213",
+                "publicationName": "Hollywood Reporter",
+                "reviewUrl": "https://www.hollywoodreporter.com/review/tumbbad-1137591",
+                "quote": "Atmospheric, heavy on mythology and scary as hell.",
+                "reviewId": "2505390",
+                "originalScore": "",
+                "scoreSentiment": "POSITIVE",
+                "sentiment": -0.2333333333333333
+            }
+        ],
+        "quote_reviews_list": [
+            "It\u2019s beautifully crafted and creepy as hell.",
+            "What the film forsakes in the acting department (with irregular performances), it more than compensates for with visual richness, artistry, imagination and genre-loyalty.",
+            "I left the theatre with images swirling in my head and a few questions that the film doesn't answer. Which is not a bad thing.",
+            "Atmospheric, heavy on mythology and scary as hell."
+        ]
     }
 }
